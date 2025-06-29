@@ -1,0 +1,29 @@
+# ConnectBot Platform FAQs
+
+## What is ConnectBot?
+ConnectBot is a user-friendly chatbot platform designed to help businesses automate customer support, provide instant responses, and collect user data securely.
+
+## What features does ConnectBot offer?
+- 24/7 automated customer support
+- Customizable training content for context-specific responses
+- Email capture for lead generation
+- Integration with popular platforms like Streamlit and OpenAI
+- Function-calling capabilities for actions like sending emails
+
+## How can I train ConnectBot?
+You can train ConnectBot by uploading a text file containing FAQs, product details, or other relevant information through the platform’s interface. The chatbot will only respond based on this content.
+
+## Who can use ConnectBot?
+ConnectBot is ideal for businesses, customer support teams, and developers looking to create tailored chatbot experiences for their users.
+
+## How do I get started with ConnectBot?
+1. Sign up for an account on the ConnectBot website.
+2. Input your training content via the provided text area.
+3. Save the content to configure your chatbot.
+4. Start interacting with the chatbot and capturing emails.
+
+## What is the pricing for ConnectBot?
+ConnectBot offers a free tier with basic features and premium plans starting at $10/month for advanced integrations and higher usage limits.
+
+## How does ConnectBot handle out-of-scope questions?
+If a question is not covered in the training content, ConnectBot responds with: "I'm sorry, I can only answer questions based on the provided training content."
